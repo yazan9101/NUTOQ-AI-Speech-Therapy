@@ -10,7 +10,10 @@ A web-based platform designed to help adults who stutter improve their speech us
 - Progress tracking dashboard
 
 ## 🛠️ Technologies
-- ( JavaScript / Firebase / etc)
+- JavaScript
+- Firebase
+- HTML & CSS
+- Google Speech-to-Text API
 
 ## 🎯 Goal
 To provide an accessible and effective speech therapy solution for Arabic-speaking users.
